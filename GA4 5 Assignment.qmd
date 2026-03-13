@@ -1,0 +1,54 @@
+---
+title: "Google Analytics GA4 Part 5 Assignment"
+author: "Jacob Molinelli"
+date: "2027-03-12"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    code-fold: true
+    code-tools: true
+    embed-resources: true
+    fig-format: png
+    fig-width: 8
+    fig-height: 5
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## 1. Proof of completion
+
+![](images/ga4%20completion.png)
+
+## 2. Exam reflection
+
+1.  **Results summary:** Pass/Not yet + your score (if shown).
+
+2.  **Top 3 topics that were most challenging** (bullets).
+
+3.  **Two questions you wish you could redo** (don’t recreate the exam questions—just describe the concept/skill area).
+
+4.  **CEP connection:** Name **one thing you will change** in your CEP measurement/analysis plan because of what you learned (concrete and actionable).
+
+I passed the Google Analytics certification exam.
+
+The three most challenging topics were:
+
+-   Differing between the various Analytics 360 features.
+
+-   The complicated word problems with example scenarios.
+
+-   The questions related to BigQuery.
+
+I wish I could redo some of the word problems involving managing a business because they were worded in a vague manner. They required having the best judgment related to analytics, and took a lot of time and problem-solving. I also wish I could redo the questions involving audiences because I am not as well-versed on that topic. Audiences are different groups of users that all share the same attributes. There are different ways to sort through audiences. I wish I had studied them more before taking the exam.
+
+After taking these certification courses, I will hone in my data to make it more specific and accurate. I can use extensions that monitor granular data traffic. I can use the funnel sorting feature to compare data sets with other data sets, and also compare a data set with a version of itself from a different period of time. I will source data using Google Ads that specifically targets users who are interested in what I have to offer. Google Ads will continue to improve as artificial intelligence improves. When these new features are implemented into Google Ads, I will be able to market my product to a wider audience with more specific interests that align with my product. I can also implement the data retrieved and compare it to previous data sets.
+
+## 3. GA4 “readiness check”
+
+![](images/ga4 reports snapshot.png)
+
+Gaining new users supports the goal of my project because new users drive another metric. Eventually, a certain number of the new users will become returning users. This happens as soon as a user visits the site a second time.
