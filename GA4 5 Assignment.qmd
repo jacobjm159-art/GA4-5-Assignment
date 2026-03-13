@@ -54,3 +54,5 @@ After taking these certification courses, I will hone in my data to make it more
 Gaining new users supports the goal of my project because new users drive another metric. Eventually, a certain number of the new users will become returning users. This happens as soon as a user visits the site a second time.
 
 ## Github Link
+
+[Github Link](https://github.com/jacobjm159-art/GA4-5-Assignment)
